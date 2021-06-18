@@ -13,7 +13,6 @@ const Home = () => {
     setIsPending(true)
     fetch(url)
       .then((res) => {
-        console.log(res)
         if (!res.ok) {
           throw Error("Couldn't load the image")
         }
