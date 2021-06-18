@@ -6,7 +6,7 @@ Just click the button and say _awww_
 
 ## Heroku
 
-Cat Provider is hosted in [Heroku]().
+Cat Provider is hosted in [Heroku](https://cat-provider.herokuapp.com/).
 
 
 ## In case you want to run it locally
